@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stockvis/static/css/main.6aa44c52.css",
+    "main.js": "/stockvis/static/js/main.ae0ab092.js",
+    "static/js/453.3fb38eb0.chunk.js": "/stockvis/static/js/453.3fb38eb0.chunk.js",
+    "index.html": "/stockvis/index.html",
+    "main.6aa44c52.css.map": "/stockvis/static/css/main.6aa44c52.css.map",
+    "main.ae0ab092.js.map": "/stockvis/static/js/main.ae0ab092.js.map",
+    "453.3fb38eb0.chunk.js.map": "/stockvis/static/js/453.3fb38eb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aa44c52.css",
+    "static/js/main.ae0ab092.js"
+  ]
+}
